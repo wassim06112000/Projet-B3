@@ -7,6 +7,7 @@
   Affichage d'une carte choroplèthe des prix de Coca et Pepsi par pays.
   Calcul et affichage de l'histogramme des rendements des actions de Pepsi et Coca-Cola.
 # Utilisation:
-  Exécutez l'application Streamlit : streamlit run app.py
+  Télécharger tous les fichiers présents dans le repo. 
+  Exécutez l'application Streamlit : python -m streamlit run stock_app.py
   Sélectionnez les dates de début et de fin pour les données des actions.
   Explorez les différents graphiques et visualisations disponibles.
